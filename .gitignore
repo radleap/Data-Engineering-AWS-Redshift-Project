@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+Development.ipynb
+dwh_development.cfg
