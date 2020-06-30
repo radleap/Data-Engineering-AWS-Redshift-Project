@@ -1,4 +1,4 @@
-## Project: Sparkify Songs Data Modeling with AWS Redshift
+## Project: AWS Redshift Programmatic Data Engineering and Modeling
 
 In this project, we develop a relational database and an ETL pipeline to store transactional song information. The expected business use is for the Sparkify analytics teams to understand the songs users are listening to, and develop better analytics around these customers. This RDBMS will help give visibility to their business (favorite songs, how many users, ...) and the ability to drive new product offerings, investigate problems, and better reporting. This database will allow flexibility in querying information depending on the analysts needs. The ETL process does all the "dirty work" and allows the analysts to focus on data insights rather than data wrangling.
 
