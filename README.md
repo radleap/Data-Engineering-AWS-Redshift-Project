@@ -31,8 +31,9 @@ We programmatically connect to the existing AWS Redshift Cluster, creating our t
 ## Instructions
 1. Create AWS Redshift cluster, store ARN in the dwh.cfg (and needed access information).
 2. Run **sql_queries.py**
-3. Run **etl.py**
-4. Can use **Querying_The_AWS_Redshift_Cluster.ipynb** to connect and execute sample queries
+3. Run **create_tables.py**
+4. Run **etl.py**
+5. Can use **Querying_The_AWS_Redshift_Cluster.ipynb** to connect and execute sample queries
 
 ## Files
 - **create_tables.py** - connects to the Sparkify database, drops any tables if they exist, and creates the tables.
